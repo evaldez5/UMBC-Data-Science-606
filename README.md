@@ -17,4 +17,14 @@ This project aims to create a Network intrusion Detection System (NIDS) with mac
 * The dataset label is divided by normal and abnormal activity. In addition, there is a sub-attack-category that shows nine different attack categories: Fuzzers, Analysis, Backdoors, DoS, Exploits, Generic, Reconnaissance, Shellcode, and Worms. 
 
 
+##### Reference
+Abdelhameed M, Dr. Nour M. ( Nov. 14, 2018) The UNSW-NB15 Dataset Description [Data set] . The University of New South Wales. https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/
+Cuelogic Technologies. ( May 13, 2019). Evaluation of Machine Learning Algorithms for Intrusion Detection System. Medium. https://medium.com/cuelogic-technologies/evaluation-of-machine-learning-algorithms-for-intrusion-detection-system-6854645f9211
+Almseidin, M., Alzubi, M., Kovacs, S., & Alkasassbeh, M. ( 2020). Evaluation of Machine Learning Algorithms for Intrusion Detection System. Mutah University, Amman,Jordan. https://arxiv.org/ftp/arxiv/papers/1801/1801.02330.pdf
+Ahmad, Z., Khan, A., Shiang, C., Abdullah, J & Ahmad, F. ( Oct. 16, 2020) Network intrusion detection system: A systematic study of machine learning and deep learning approaches. Wiley Online Library. https://onlinelibrary.wiley.com/doi/full/10.1002/ett.4150
+MLK. (Oct. 30, 2019) Animated Explanation of Feed Forward Neural Network Architecture. MLK making AI simple. https://machinelearningknowledge.ai/animated-explanation-of-feed-forward-neural-network-architecture/
+Sharma, Bikash. ( Sept. 4, 2019) Evaluating a Machine Learning Model. Skyl.ai.  https://blog.skyl.ai/evaluating-a-machine-learning-model/
+
+
+
 
