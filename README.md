@@ -17,7 +17,7 @@ This project aims to create a Network intrusion Detection System (NIDS) with mac
 * The dataset label is divided by normal and abnormal activity. In addition, there is a sub-attack-category that shows nine different attack categories: Fuzzers, Analysis, Backdoors, DoS, Exploits, Generic, Reconnaissance, Shellcode, and Worms. 
 * Here is Graph showing the distribution of network attacks available in this datasets
 
-![image](https://github.com/evaldez5/UMBC-Data-Science-606/tree/main/Images/grap_distribution.JPG)
+![](./Images/grap_distribution.JPG)
 
 
 ##### Reference
