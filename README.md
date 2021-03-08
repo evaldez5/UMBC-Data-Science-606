@@ -15,6 +15,9 @@ This project aims to create a Network intrusion Detection System (NIDS) with mac
 * For this project, we are going to use a pre-label dataset from the IXIA PerfectStorm tool in the Cyber Range Lab of the Australian Centre for Cyber Security (ACCS) with the title UNSW-NB15
 * The dataset contains around two million network traffic records with 49 features to describe the network activity
 * The dataset label is divided by normal and abnormal activity. In addition, there is a sub-attack-category that shows nine different attack categories: Fuzzers, Analysis, Backdoors, DoS, Exploits, Generic, Reconnaissance, Shellcode, and Worms. 
+* Here is Graph showing the distribution of network attacks available in this datasets
+
+![image](https://github.com/evaldez5/UMBC-Data-Science-606/tree/main/Images/grap_distribution.JPG)
 
 
 ##### Reference
