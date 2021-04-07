@@ -3,6 +3,12 @@
 
 ### Author: Edwin Valdez (M.S.P. Data Science- University of Maryland Baltimore County) 
 
+### Project Content
+<!--ts-->
+	* [Table of contents](#table-of-contents)
+	* [Project Overview](#project-overview)
+<!--te-->
+
 #### Project Overview
 
 This project aims to create a Network intrusion Detection System (NIDS) with machine learning capabilities. The system would monitor and detect malicious activity on the network that can lead to future attacks. The system would perform a classification approach with the neural network algorithm that would be able to predict if the network is malicious or normal. NIDS is a solution to the current increasing network attack issues to devices that can further damage a company. Many companies rely on services over the internet with the use of applications and transactions online. Therefore, this model system aims to provide another layer of protection/detection from possible network attacks that can affect those services. 
@@ -22,6 +28,8 @@ This project aims to create a Network intrusion Detection System (NIDS) with mac
 * Here we have some graph showing the correlation between our features. 
 ![](./Images/corr_matrix.JPG)
 
+project-overview
+=================
 ##### Reference
 Abdelhameed M, Dr. Nour M. ( Nov. 14, 2018) The UNSW-NB15 Dataset Description [Data set] . The University of New South Wales. https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/
 Cuelogic Technologies. ( May 13, 2019). Evaluation of Machine Learning Algorithms for Intrusion Detection System. Medium. https://medium.com/cuelogic-technologies/evaluation-of-machine-learning-algorithms-for-intrusion-detection-system-6854645f9211
