@@ -4,9 +4,12 @@
 ### Author: Edwin Valdez (M.S.P. Data Science- University of Maryland Baltimore County) 
 
 ### Project Content
+Table of contents
+=================
 <!--ts-->
-	* [Table of contents](#table-of-contents)
-	* [Project Overview](#project-overview)
+* [Table of contents](#table-of-contents)
+* [Project Overview](#project-overview)
+	* [Student] (#student)
 <!--te-->
 
 #### Project Overview
