@@ -9,7 +9,7 @@ Table of contents
 <!--ts-->
 * [Table of contents](#table-of-contents)
 * [Project Overview](#project-overview)
-	* [Student] (#student)
+	* [Student](#Reference)
 <!--te-->
 
 #### Project Overview
@@ -31,7 +31,7 @@ This project aims to create a Network intrusion Detection System (NIDS) with mac
 * Here we have some graph showing the correlation between our features. 
 ![](./Images/corr_matrix.JPG)
 
-project-overview
+Reference
 =================
 ##### Reference
 Abdelhameed M, Dr. Nour M. ( Nov. 14, 2018) The UNSW-NB15 Dataset Description [Data set] . The University of New South Wales. https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/
