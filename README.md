@@ -9,7 +9,8 @@ Table of contents
 <!--ts-->
 * [Table of contents](#table-of-contents)
 * [Project Overview](#project-overview)
-	* [Student](#Reference)
+* [Reference](#reference)
+* [ScreenShot](#./Images)
 <!--te-->
 
 #### Project Overview
@@ -31,8 +32,7 @@ This project aims to create a Network intrusion Detection System (NIDS) with mac
 * Here we have some graph showing the correlation between our features. 
 ![](./Images/corr_matrix.JPG)
 
-Reference
-=================
+
 ##### Reference
 Abdelhameed M, Dr. Nour M. ( Nov. 14, 2018) The UNSW-NB15 Dataset Description [Data set] . The University of New South Wales. https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/
 Cuelogic Technologies. ( May 13, 2019). Evaluation of Machine Learning Algorithms for Intrusion Detection System. Medium. https://medium.com/cuelogic-technologies/evaluation-of-machine-learning-algorithms-for-intrusion-detection-system-6854645f9211
