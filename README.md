@@ -7,13 +7,12 @@
 Table of contents
 =================
 <!--ts-->
-* [Table of contents](#table-of-contents)
 * [Project Overview](#project-overview)
-	* [Phase 1](#project-overview)
-	* [Phase 2](https://github.com/evaldez5/UMBC-Data-Science-606/tree/main/Phase%202-%20Delivery)
+	* [Phase 1- Delivery](https://github.com/evaldez5/UMBC-Data-Science-606/tree/main/Phase%201-%20Delivery)
+	* [Phase 2- Delivery](https://github.com/evaldez5/UMBC-Data-Science-606/tree/main/Phase%202-%20Delivery)
 * [Data Description](#Data-Description)
 * [Preliminary Results](#Preliminary-Results)
-* [ScreenShot](#./Images)
+* [Images](https://github.com/evaldez5/UMBC-Data-Science-606/tree/main/Images)
 * [Reference](#reference)
 
 <!--te-->
