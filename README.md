@@ -29,8 +29,10 @@ This project aims to create a Network intrusion Detection System (NIDS) with mac
 ### Logistic to implement
 * The Network Intrusion Detection System (NIDS) would be implemented using a Neural Network algorithm using a pre-label dataset with network traffic containing normal and malicious activity. 
 * Since we are dealing with large network traffic datasets, the neural network algorithm would be able to take the feature of those network traffic data (over 49 features) to predict if the activity is normal or abnormal (Malicious). 
-* One of the major reason of why I consider Neural Network being an excelent choice was the relationship between the features that suggest me it would be an excelent choice. We can see the relationship between features thanks to the correlation matrix. (Figure 1)
+* One of the major reason of why I consider Neural Network being an excellent choice was the relationship between the features that suggest me it would be an excellent choice. We can see the relationship between features thanks to the correlation matrix. (Figure 1)
+
 ![](./Images/corr_matrix.JPG)
+
 Figure 1
 
 ### Data Description
