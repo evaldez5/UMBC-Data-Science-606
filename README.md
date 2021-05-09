@@ -29,17 +29,18 @@ This project aims to create a Network intrusion Detection System (NIDS) with mac
 ### Logistic to implement
 * The Network Intrusion Detection System (NIDS) would be implemented using a Neural Network algorithm using a pre-label dataset with network traffic containing normal and malicious activity. 
 * Since we are dealing with large network traffic datasets, the neural network algorithm would be able to take the feature of those network traffic data (over 49 features) to predict if the activity is normal or abnormal (Malicious). 
+* One of the major reason of why I consider Neural Network being an excelent choice was the relationship between the features that suggest me it would be an excelent choice. We can see the relationship between features thanks to the correlation matrix. (Figure 1)
+![](./Images/corr_matrix.JPG)
+Figure 1
 
 ### Data Description
 * For this project, we are going to use a pre-label dataset from the IXIA PerfectStorm tool in the Cyber Range Lab of the Australian Centre for Cyber Security (ACCS) with the title UNSW-NB15.
 * The dataset contains around two million network traffic records with 49 features to describe the network activity.
 * The dataset label is divided by normal and abnormal activity. In addition, there is a sub-attack-category that shows nine different attack categories: Fuzzers, Analysis, Backdoors, DoS, Exploits, Generic, Reconnaissance, Shellcode, and Worms. 
-* Here is Graph showing the distribution of network attacks available in this datasets.
+* Here is Graph showing the distribution of network attacks available in this datasets. (Figure 2)
 
 ![](./Images/grap_distribution.JPG)
-
-* Here we have some graph showing the correlation between our features. 
-![](./Images/corr_matrix.JPG)
+Figure 2
 
 ### Preliminary Results
 In this project, I am using Keras Classifier algorithm to set up my neural network model. The initial configuration of my model contains 25 epochs and a batch size of 15. In addition, my setup includes six hidden layers with "relu" activation. As we were expected from our initial results, I consider the results to be off, and we are going to run some epoch and play with the number of hidden layers and batch size to reach a better accuracy where we can align the results with our validation data. Furthermore, I am going to perform a deep analysis of the data to determine which piece of network traffic I should keep and/or transform for better accurate results. However,  I found traffic data that will not be significant to our end prediction, which I will remove from our training datasets.
