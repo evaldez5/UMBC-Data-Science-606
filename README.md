@@ -49,6 +49,12 @@ Figure 2
 ### Preliminary Results
 In this project, I am using Keras Classifier algorithm to set up my neural network model. The initial configuration of my model contains 25 epochs and a batch size of 15. In addition, my setup includes six hidden layers with "relu" activation. As we were expected from our initial results, I consider the results to be off, and we are going to run some epoch and play with the number of hidden layers and batch size to reach a better accuracy where we can align the results with our validation data. Furthermore, I am going to perform a deep analysis of the data to determine which piece of network traffic I should keep and/or transform for better accurate results. However,  I found traffic data that will not be significant to our end prediction, which I will remove from our training datasets.
 
+![](./Images/accuracy_tainingVal.JPG)
+
+The following graph will show the loss data from our model.
+
+![](./Images/loss_value.JPG)
+
 ### Findings
 Please refers to the [Final Phase Delivery](https://github.com/evaldez5/UMBC-Data-Science-606/tree/main/Final%20-Delivery) to search for the presentation of this project 
 
@@ -61,14 +67,7 @@ Please refers to the [Final Phase Delivery](https://github.com/evaldez5/UMBC-Dat
 * Be able to design this model to perform live network traffic analysis by using direct feeding for tools like Wireshark, Cisco, Palo Alto, etc.
 * Time to develop this project.
 
-
-![](./Images/accuracy_tainingVal.JPG)
-
-The following graph will show the loss data from our model.
-
-![](./Images/loss_value.JPG)
-
-#### Reference
+### Reference
 1- Abdelhameed M, Dr. Nour M. ( Nov. 14, 2018) The UNSW-NB15 Dataset Description [Data set] . The University of New South Wales. https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/
 
 2- Cuelogic Technologies. ( May 13, 2019). Evaluation of Machine Learning Algorithms for Intrusion Detection System. Medium. https://medium.com/cuelogic-technologies/evaluation-of-machine-learning-algorithms-for-intrusion-detection-system-6854645f9211
