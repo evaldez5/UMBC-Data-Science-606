@@ -10,15 +10,15 @@ Table of contents
 * [Project Overview](#project-overview)
 	* [Phase 1- Delivery](https://github.com/evaldez5/UMBC-Data-Science-606/tree/main/Phase%201-%20Delivery)
 	* [Phase 2- Delivery](https://github.com/evaldez5/UMBC-Data-Science-606/tree/main/Phase%202-%20Delivery)
-	* [Final Phase- Delivery](https://github.com/evaldez5/UMBC-Data-Science-606/tree/main/Phase%202-%20Delivery)
+	* [Final Phase- Delivery](https://github.com/evaldez5/UMBC-Data-Science-606/tree/main/Final%20-Delivery)
 
 * Libraries needed for this project
 * [Data Description](#Data-Description)
 * [Preliminary Results](#Preliminary-Results)
-* Findings
-* Presentation of Results
-* Final Source code
-* Limitations and further work
+* [Findings](https://github.com/evaldez5/UMBC-Data-Science-606/tree/main/Final%20-Delivery)
+* [Presentation of Results](https://github.com/evaldez5/UMBC-Data-Science-606/tree/main/Final%20-Delivery)
+* [Final Source code](https://github.com/evaldez5/UMBC-Data-Science-606/tree/main/Final%20-Delivery)
+* [Limitations and further work](#Limitations-and-further-work)
 * [Graphical Figures](https://github.com/evaldez5/UMBC-Data-Science-606/tree/main/Images)
 * [Reference](#reference)
 
@@ -50,10 +50,10 @@ Figure 2
 In this project, I am using Keras Classifier algorithm to set up my neural network model. The initial configuration of my model contains 25 epochs and a batch size of 15. In addition, my setup includes six hidden layers with "relu" activation. As we were expected from our initial results, I consider the results to be off, and we are going to run some epoch and play with the number of hidden layers and batch size to reach a better accuracy where we can align the results with our validation data. Furthermore, I am going to perform a deep analysis of the data to determine which piece of network traffic I should keep and/or transform for better accurate results. However,  I found traffic data that will not be significant to our end prediction, which I will remove from our training datasets.
 
 ### Findings
-Please refers to the Final Phase Delivery to search for the presentation of this project 
+Please refers to the [Final Phase Delivery](https://github.com/evaldez5/UMBC-Data-Science-606/tree/main/Final%20-Delivery) to search for the presentation of this project 
 
 ### Presentation of Results
-Please refers to the Final Phase Delivery to search for the presentation of this project
+Please refers to the [Final Phase Delivery](https://github.com/evaldez5/UMBC-Data-Science-606/tree/main/Final%20-Delivery) to search for the presentation of this project
 
 ### Limitations and further work
 * Find a dataset that contains balance records between the different types of network attack categories. Collect network traffic from different sources and create one effective network dataset. 
