@@ -51,9 +51,9 @@ In this project, I am using Keras Classifier algorithm to set up my neural netwo
 
 ![](./Images/accuracy_tainingVal.JPG)
 
-The following graph will show the loss data from our model.
+The following graph will show the confusion Matrix for our model.
 
-![](./Images/loss_value.JPG)
+![](./Images/confusion_Matrix_last.JPG)
 
 ### Findings
 Please refers to the [Final Phase Delivery](https://github.com/evaldez5/UMBC-Data-Science-606/tree/main/Final%20-Delivery) to search for the presentation of this project 
