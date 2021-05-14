@@ -12,7 +12,6 @@ Table of contents
 	* [Phase 2- Delivery](https://github.com/evaldez5/UMBC-Data-Science-606/tree/main/Phase%202-%20Delivery)
 	* [Final Phase- Delivery](https://github.com/evaldez5/UMBC-Data-Science-606/tree/main/Final%20-Delivery)
 
-* Libraries needed for this project
 * [Data Description](#Data-Description)
 * [Preliminary Results](#Preliminary-Results)
 * [Findings](https://github.com/evaldez5/UMBC-Data-Science-606/tree/main/Final%20-Delivery)
